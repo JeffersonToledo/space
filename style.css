@@ -1,0 +1,16 @@
+/*
+Theme Name: space
+Theme URI: http://space.com
+Author: the Abel
+Author URI: http://space.com
+Description: Tema teste de um blog
+Version: 1.0
+*/
+
+.fundoBand {
+    background: url(./img/fundoCeu.jpg) no-repeat center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    color: #444;
+}
